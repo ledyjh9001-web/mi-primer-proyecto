@@ -1,0 +1,6 @@
+{
+  "name": "CONCRETE HEAT",
+  "description": "Tactical brutalist urban Latin street music catalog, stem mixer deck, and lossless crate manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
